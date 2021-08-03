@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.9e7472d6.chunk.js": "./static/js/0.9e7472d6.chunk.js",
     "main.css": "./static/css/main.48c77f1d.chunk.css",
-    "main.js": "./static/js/main.38cee68c.chunk.js",
+    "main.js": "./static/js/main.4873b013.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.d5e612b1.js",
     "static/css/3.b3a2d9c8.chunk.css": "./static/css/3.b3a2d9c8.chunk.css",
     "static/js/3.932d576d.chunk.js": "./static/js/3.932d576d.chunk.js",
@@ -25,7 +25,8 @@
     "static/media/H5_logo.a9ae7a2c.png": "./static/media/H5_logo.a9ae7a2c.png",
     "static/media/H5_logo_en.54541b9b.png": "./static/media/H5_logo_en.54541b9b.png",
     "static/media/H5_paper_background.ecc0db3a.png": "./static/media/H5_paper_background.ecc0db3a.png",
-    "static/media/help_background.1778570b.png": "./static/media/help_background.1778570b.png",
+    "static/media/base_background.a7f1dcc1.png": "./static/media/base_background.a7f1dcc1.png",
+    "static/media/help_background.eb59a96d.png": "./static/media/help_background.eb59a96d.png",
     "static/media/hero-background.5206a311.png": "./static/media/hero-background.5206a311.png",
     "static/media/homePage_background.cb532da0.png": "./static/media/homePage_background.cb532da0.png",
     "static/media/logo_2.8336f094.png": "./static/media/logo_2.8336f094.png",
@@ -34,7 +35,7 @@
     "static/media/partners_8.d3985f72.png": "./static/media/partners_8.d3985f72.png",
     "static/media/partners_9.dfc99f7d.png": "./static/media/partners_9.dfc99f7d.png",
     "static/media/partners_background.9f381c4d.png": "./static/media/partners_background.9f381c4d.png",
-    "static/media/public_background.0729e697.png": "./static/media/public_background.0729e697.png",
+    "static/media/public_background.093dc222.png": "./static/media/public_background.093dc222.png",
     "static/media/public_modelBg.1c66c8ce.png": "./static/media/public_modelBg.1c66c8ce.png",
     "static/media/reward_background.c6dcc07e.png": "./static/media/reward_background.c6dcc07e.png",
     "static/media/technologyPage_background.8d7e3213.png": "./static/media/technologyPage_background.8d7e3213.png",
@@ -48,6 +49,6 @@
     "static/css/3.b3a2d9c8.chunk.css",
     "static/js/3.932d576d.chunk.js",
     "static/css/main.48c77f1d.chunk.css",
-    "static/js/main.38cee68c.chunk.js"
+    "static/js/main.4873b013.chunk.js"
   ]
 }
