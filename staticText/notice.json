@@ -2,26 +2,22 @@
     "name": "notice",
     "version": "1.0.0",
     "announcement": {
-        "title_zh":"关于“A、2、3、4、5”新增组合及交易合约，技术社区反馈",
-        "title_en":"Feedback from the technical community on the new \"A, 2, 3, 4, 5\" sets and trading contracts",
+        "title_zh":"关于“关于创世阶段活动奖励20000枚PK币的空投说明",
+        "title_en":"Explanation about the airdrop of 20,000 PK token rewards",
         "time":"2013",
         "list_zh":[
-            "技术社区反馈，由于“A、2、3、4、5”新增组合的逻辑涉及“矿场合约”的替换，但目前“矿场合约”放置了78%的PK资产及玩家质押的POKER卡牌，且无法转出（合约开发时考虑了用户资产的安全，所以任何地址均不能无故转出“矿场合约”的资产）。",
-            "如果一定要添加该组合的逻辑，则必须对 PK 资产进行迁移，且“矿场合约”几乎不可能让目前所有玩家同时同步操作迁移。即使有1个玩家拒绝迁移，也会造成PK资产整体迁移的目的失败。",
-            "出于对玩家资产安全和PokerFi整体稳定性考虑，技术社区否定了在原有合约中进行本次更新的计划，但为了推动玩家社区的良性发展，技术社区提出了全新的解决方案：",
-            "通过在官网通过部署新的“活动合约”来完成“A、2、3、4、5”的组合需求，并实现官网与PokerFi DAPP的数据同步。",
-            "全新的技术方案，需要时间落实，预计在8月下旬会完成新合约的开发部署，具体时间，请关注发布的最新公告。",
-            "同时，为推动PK币未来在中心化交易所的发展，经共识委员会决议，技术社区将关闭 PK币卖出时，额外扣除10%的单边燃烧机制。",
-            "2021年8月19日"
+            "技术社区将于8月20日24：00（GMT+8）,对PokerFi星球所有矿场总算力进行快照，并通过以下方式进行空投核算及发放：",
+            "1. 依据快照结果筛选出算力达50000，且排名前30的矿场；",
+            "2. 针对符合筛选条件的矿场在筛选名单总算力的占比，进行20000枚PK币的空投核算；",
+            "3. 空投奖励将于8.21日完成发放。",
+            "2021年8月20日"
         ],
         "list_en":[
-            "Feedback from the technical community, since the logic of \"A, 2, 3, 4, 5\" new sets involves the replacement of the \"mining contract\", but currently the \"mining contract\" has 78% of PK assets and POKER playing cards staked by players, and cannot be transferred out (the contract is developed with the safety of user assets in consideration, so no address can be transferred out of the \"mining contract\" assets for no reason).",
-            "If the logic of this combination must be added, the PK assets must be migrated, and it is almost impossible for the \"mining contract\" to allow all current players to migrate at the same time. Even if one player refuses to migrate, it will cause the overall migration of PK assets to fail.",
-            "For the safety of players' assets and the overall stability of PokerFi, the technical community rejected the plan to carry out this update in the original contract, but in order to promote the healthy development of the player community, the technical community proposed a new solution.",
-            "By deploying a new \"Activity Contract\" on the official website to complete the \"A, 2, 3, 4, 5\" set, and to synchronize the data between the official website and PokerFi DAPP.",
-            "The new technical solution will take time to implement. The development and deployment of the new contract is expected to be completed in late August, please pay attention to the latest announcement.",
-            "Meanwhile, in order to promote the future development of PK tokens on centralized exchanges, the technical community will close the one-sided burning mechanism that deducts an additional 10% when PK tokens are sold, as resolved by the consensus committee.",
-            "August 19, 2021"
+            "The technical community will take a snapshot of the total hashrate power of all the mining farms on Planet PokerFi at 24:00 (GMT+8) on August 20, and will calculate and distribute the airdrop in the following way.",
+            "1. screen out the top 30 mining farms with 50,000 hashrate power based on the snapshot results.",
+            "2. the airdrop accounting of 20,000 PK tokens will be conducted for the percentage of the total hashrate power of the mining farms that meet the screening criteria in the screening list.",
+            "3. the airdrop reward will be distributed on 8.21.",
+            "August 20, 2021"
         ]
     }
 }
