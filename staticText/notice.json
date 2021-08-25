@@ -1,0 +1,23 @@
+{
+    "name": "notice",
+    "version": "1.0.0",
+    "announcement": {
+        "title_zh":"关于创世阶段活动奖励20000枚PK币的空投说明",
+        "title_en":"Explanation about the airdrop of 20,000 PK token rewards",
+        "time":"2021",
+        "list_zh":[
+            "技术社区将于8月20日24：00（GMT+8）,对PokerFi星球所有矿场总算力进行快照，并通过以下方式进行空投核算及发放：",
+            "1. 依据快照结果筛选出算力达50000，且排名前30的矿场；",
+            "2. 针对符合筛选条件的矿场在筛选名单总算力的占比，进行20000枚PK币的空投核算；",
+            "3. 空投奖励将于8.21日完成发放。",
+            "2021年8月20日"
+        ],
+        "list_en":[
+            "The technical community will take a snapshot of the total hashrate power of all the mining farms on Planet PokerFi at 24:00 (GMT+8) on August 20, and will calculate and distribute the airdrop in the following way.",
+            "1. screen out the top 30 mining farms with 50,000 hashrate power based on the snapshot results.",
+            "2. the airdrop accounting of 20,000 PK tokens will be conducted for the percentage of the total hashrate power of the mining farms that meet the screening criteria in the screening list.",
+            "3. the airdrop reward will be distributed on 8.21.",
+            "August 20, 2021"
+        ]
+    }
+}
