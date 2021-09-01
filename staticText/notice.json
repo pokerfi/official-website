@@ -2,15 +2,18 @@
     "name": "notice",
     "version": "1.0.0",
     "announcement": {
-        "title_zh":"关于创世阶段活动奖励20000枚PK币的空投说明",
+        "title_zh":"关于PokerFi生态经济模型PK市值共识机制正式开启的公告",
         "title_en":"Explanation about the airdrop of 20,000 PK token rewards",
         "time":"2021",
         "list_zh":[
-            "技术社区将于8月20日24：00（GMT+8）,对PokerFi星球所有矿场总算力进行快照，并通过以下方式进行空投核算及发放：",
-            "1. 依据快照结果筛选出算力达50000，且排名前30的矿场；",
-            "2. 针对符合筛选条件的矿场在筛选名单总算力的占比，进行20000枚PK币的空投核算；",
-            "3. 空投奖励将于8.21日完成发放。",
-            "2021年8月20日"
+            "尊敬的各位PokerFi头号玩家：",
+            "随着PokerFi经济模型及社区拓展的良性运转，PokerFi即将进入快速的发展阶段，在全新的阶段，PokerFi的社区价值共识将愈发强大，为快速推动PokerFi发展进程，凝聚PK价值强共识，经共识委员会决定：继试行之后，将于9月1日15：00（GMT+8）正式开启PK币市值共识机制，具体如下：",
+            "当用户在Pancake Swap 卖出PK币时，将同时触发10%单边燃烧合约，即从钱包余额同步扣除卖出数额10%比例的PK币，被扣除的10%比例PK币，分配规则为：",
+            "1. 60%销毁",
+            "2. 30%为PK/BNB交易对提供流动性支持",
+            "3. 10%奖励给所有购买过PK币的用户，依照PK币买入的数量权重进行分配",
+            "该机制的正式推行，将在一定程度放大PK币的通缩属性，更重要的是深度凝聚PK市值共识，真正打开PK的增值空间，给予深度共识者巨额的红利回馈！",
+            "2021年9月1日",
         ],
         "list_en":[
             "The technical community will take a snapshot of the total hashrate power of all the mining farms on Planet PokerFi at 24:00 (GMT+8) on August 20, and will calculate and distribute the airdrop in the following way.",
