@@ -2,22 +2,44 @@
     "name": "notice",
     "version": "1.0.0",
     "announcement": {
-        "title_zh":"关于PokerFi星球正式启动能量费永久回购销毁PK币的公告",
-        "title_en":"Announcement on PokerFi Planet officially launching permanent energy fee repurchase and burning PK tokens",
+        "title_zh":"关于PokerFi星球正式开启候选矿池申请的公告",
+        "title_en":"Announcement on PokerFi Planet Officially Opening Application for Candidate Mining Pools",
         "time":"2021.9.8",
         "list_zh":[
             "尊敬的各位头号玩家：",
-            "在PokerFi星球的整个经济运作体系中，30%的能量费收入将专项用于回购并销毁PK币，我们将于今日正式启动该项合约的执行，30%比例的能量费收入将持续永久的进行PK币回购并定期进行销毁公示。该项合约执行地址：",
-            "0x80Ceb7dBD482e2FD8c375099C9159B73A8A39C8E",
-            "欢迎所有玩家持续监控该地址资产流向。",
-            "2021年9月8日"
+            "PokerFi星球作为OASIS绿洲元宇宙的首个创世星球，自诞生以来，始终在进行更高维度的进化，在即将到来的PokerFi进化奇点，PokerFi星球的整个生态经济模型将迎来再一次伟大跃迁。",
+            "在本次的PokerFi星球的进化跃迁 中，PokerFi的生态模型将衍生出全新的”高维物种“——矿池, 它在实现整个PokerFi社区拓展架构升级的同时，将真正承载现实BTC生态经济模型中矿池、矿机生产商甚至价值共识者培育的核心职能。关于“矿池“生态模型的具体阐述已正式发布给全球各大社区，所有玩家可以通过社区详细了解。",
+            "在当前PokerFi进化阶段成为矿池的唯一方式：申请成为候选矿池，届时将直接晋级为正式矿池。具体规则如下：",
+            "候选矿池开放申请时间：",
+            "2021.9.10日24：00（GMT+8）——2021.9.15日24：00（GMT+8）",
+            "候选矿池申请条件：",
+            "1. 矿场算力达到15万及以上；",
+            "2. 质押10000枚PK币至官方公布的统一地址：",
+            "0x2FeFe3101e912fA81F06F37C0B58e05c1C718aA8",
+            "待成为正式矿池后，10000枚PK原路退回；",
+            "3. 有专项的运营场地",
+            "候选矿池审核通过后，获得以下权益：",
+            "1. 获得阶段性的PK币空投奖励，具体见后续公告；",
+            "2. 可直接晋级正式矿池，享有正式矿池权益",
+            "2021年9月9日"
         ],
         "list_en":[
             "Dear all number one players:",
-            "In the entire economic operation system of PokerFi Planet, 30% of the energy fee income will be used to buy back and destroy PK tokens. We will officially start the execution of this contract today. 30% of the energy fee income will buy back PK tokens forever.  Token burning announcements in detail will be made regularly.  The contract execution address:",
-            "0x80Ceb7dBD482e2FD8c375099C9159B73A8A39C8E",
-            "All players are welcome to continuously monitor the asset flow of this address.",
-            "Sept. 8th 2021"
+            "PokerFi planet is the first creation planet of the OASIS metaverse. PokerFi has always been evolving in higher dimensions since its birth. At the upcoming PokerFi evolution singularity, the entire ecological economic model of the PokerFi planet will jump in another great leap. ",
+            "In this evolutionary transition of the PokerFi planet, PokerFi\'s ecological model will derive a new high-dimensional species, the Mining Pool. The Mining Pool will carry the functions of mining pools, mining machine manufacturers and educating the value consensus users in the BTC ecological economic model in reality, while realizing the expansion and upgrading of the entire PokerFi community. The detailed description of the Mining Pool ecological model has been officially released to major worldwide communities. All players can learn more about it through the community.",
+            "The only way to become a mining pool in the PokerFi: ",
+            "Firstly, apply to become a candidate mining pool. Then it will be directly promoted to an official mining pool. The specific rules are as follows:",
+            "Candidate mining pool application time:",
+            "24:00 on January 10, 2021.9 (GMT+8)-24:00 on January 15, 2021.9 (GMT+8)",
+            "Requirements:",
+            "1. The mining power reaches 150,000 and above.",
+            "2. Stake 10,000 PK tokens to the unified official address: 0x2FeFe3101e912fA81F06F37C0B58e05c1C718aA8",
+            "The tokens will be returned to the original way after becoming an offi",
+            "3.There are special operating sites.",
+            "Once the candidate pool audit has been approved, the following benefits are obtained:",
+            "1. Get a phased PK coin airdrop reward, see the follow-up announcement;",
+            "2. Can directly advance to the official mine pool, enjoy the rights and interests of the formal mine pool.",
+            "Sept. 9th 2021"
            ]
     }
 }
