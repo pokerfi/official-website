@@ -2,29 +2,34 @@
     "name": "notice",
     "version": "1.0.0",
     "announcement": {
-        "title_zh":"PokerFi生态模型进化大跃迁，空投激励活动享不停",
-        "title_en":"The evolution of the PokerFi ecological model is a big leap. The airdrop incentive activities are continuously conducted.",
-        "time":"2021.9.16",
+        "title_zh":"关于PokerFi星球全新生态模型“正式矿池”晋级标准的重要公告",
+        "title_en":"Important Announcement Regarding the Upgrade Standard of PokerFi Planet's New Ecological Model 'Official Mining Pool'",
+        "time":"2021.9.18",
         "list_zh":[
-            "为迎接PokerFi高维物种“矿池”的正式上线，同时感谢所有候选矿池的全力支持，特面向候选矿池及社区推出多样的空投福利活动，具体内容如下：",
-            "活动一：候选矿池大回馈，专享8000枚PK空投激励",
-            "活动时间：2021.9.16日24：00-2021.10.16日24：00（GMT+8）",
-            "所有候选矿池以活动开启时的矿场算力为基准，截止活动结束，统计各自矿场的算力增量，依据各自矿场算力增量占比获得8000枚PK空投激励分配。",
-            "活动二：候选矿池大回馈，场地运营正当时",
-            "活动时间：2021.9.16日24：00-2021.10.16日24：00（GMT+8）",
-            "截止活动结束，候选矿池矿场算力在15万-50万之间，将获得800枚PK场地运营专项空投在50万及以上时，将获得1500枚PK场地运营专项空投",
-            "2021年9月16日"
+            "PokerFi星球自诞生以来，始终在进行更高维度的进化，在即将到来的PokerFi进化奇点，PokerFi生态模型将衍生出全新的“高维物种”——矿池，它在实现整个PokerFi社区拓展架构升级的同时，将真正承载现实BTC生态模型中矿池、矿机生产商甚至价值共识者培育的核心职能。",
+            "现发布“正式矿池”的晋级标准：",
+            "1. 成功获得“候选矿池”席位的矿场，在矿池生态模型正式上线后，将直接晋级为“正式矿池”；",
+            "2. 在矿池生态模型正式上线后，“正式矿池”晋级标准如下：",
+            "全网算力在500万之下，矿场算力达20万即可晋级",
+            "全网算力在500-750万，矿场算力达30万即可晋级",
+            "全网算力在750-1500万，矿场算力达50万即可晋级",
+            "全网算力在1500万以上，矿场算力达80万即可晋级",
+            "PokerFi星球的生态经济模型在衍化高维物种“矿池”之后， 代表着真正实现了对现实BTC生态经济模型的深度演化，意味着整个经济体系才真正具备完整的运转架构，可以在更高的维度去承载社区的良性发展以 及生态版图的扩张。PokerFi的一切才刚刚开始，它的未来一起见证！",
+            "PokerFi",
+            "2021年9月18日"
         ],
         "list_en":[
-            "In order to welcome the official launch of the PokerFi high-dimensional species 'mining pool', and thanks to all the candidate mining pools for their full support, we have launched a variety of airdrop welfare activities for the candidate mining pools and the community. The specific content is as follows:",
-            "Activity 1: Candidate mining pool rewards, exclusive 8000 PK airdrop reward",
-            "Activity time: 24:00 on September 16, 2021.9-24:00 on October 16, 2021 (GMT+8)",
-            "All candidate mining pools are based on the mining power at the start of the event. At the end of the event, the mining power increments of their respective mines are counted. 8000 PK airdrop rewards are allocated based on the percentage of the mining power increments.",
-            "Activity 2: Candidate mining pool rewards, perfect time operate your site ",
-            "Activity time: 24:00 on September 16, 2021.9-24:00 on October 16, 2021 (GMT+8)",
-            "As of the end of the event, candidate mining pools with a computing power of between 150,000 and 500,000 will receive 800 PK site operations special airdrops.",
-            "When reaching over 500,000 of computing power, 1,500 PK venue operation special airdrops will be obtained. ",
-            "Sept. 16th 2021"
+            "Since the birth of the Planet PokerFi, it has always been evolving in a higher dimension. At the upcoming PokerFi evolution singularity. PokerFi's ecological model will derive a new high-dimensional species, the Mining Pool. The Mining Pool will carry the functions of mining pools, mining machine manufacturers and educating the value consensus users in the BTC ecological economic model in reality, while realizing the expansion and upgrading of the entire PokerFi community.",
+            "The promotion criteria for the 'official Mining Pool' are now released:",
+            "1. Mines that have successfully obtained the 'candidate mining pool' seat will be directly promoted to the 'official mining pool' after the mining pool ecological model is officially launched;",
+            "2. After the mining pool ecological model is officially launched, the 'official mining pool' promotion standards are as follows:",
+            "The whole network's computing power is under 5 million. The mining farm's computing power can reach 200,000.",
+            "The whole network's computing power is between 5 and 7.5 million. The mining farm's computing power can reach 300,000.",
+            "The whole network's computing power is 7.5-15 million. The mining farm's computing power can reach 500,000.",
+            "The whole network‘s computing power of more than 15 million. The mining farm’s computing power can reach 800,000.",
+            "After deriving the high-dimensional species 'mining pool', the ecological economic model of Planet PokerFi represents the real deep evolution of the real BTC ecological economic model. It means that the entire economic system truly has a complete operating structure, which can be used at a higher dimension level to carry the healthy development of the community and the expansion of the ecological territory. Everything about PokerFi has just begun. Let witness its future together!",
+            "PokerFi",
+            "Sept. 18th 2021"
            ]
     }
 }
