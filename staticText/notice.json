@@ -28,7 +28,7 @@
             "1. The number of cards issued and sold in the 15th round is: the sum of all the unsold cards from the 1st round to the 14th round, which are allocated to the card sales in the next 10 days according to the existing model algorithm;",
             "2. Round 16 card slot sales base will restart to 2000, all new and old mine users can apply on demand;",
             "3.The number of cards issued in round 17-18 shall be sold normally according to the number of card slots subscribed in round 16 and the existing card slot association model algorithm;",
-            "In order to ensure that the number of slots subscribed for round 14 is "0", the technical community will temporarily close the entrance of 'Mine' on the homepage in round 14, and the 15th and subsequent rounds will be open normally.",
+            "In order to ensure that the number of slots subscribed for round 14 is zero, the technical community will temporarily close the entrance of 'Mine' on the homepage in round 14, and the 15th and subsequent rounds will be open normally.",
             "The proposal was fully discussed by the community consensus committee and the major communities, and a resolution was made: the proposal was fully adopted and started to be implemented in the 14th round.",
             "PokerFi",
             "Sept. 20th 2021"
