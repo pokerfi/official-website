@@ -2,36 +2,20 @@
     "name": "notice",
     "version": "1.0.0",
     "announcement": {
-        "title_zh":"关于技术社区发起——“卡槽发售重启”提案的决议通知",
-        "title_en":"Notice of resolution on 'card slot launch restart' proposal initiated by technical community",
-        "time":"2021.9.20",
+        "title_zh":"关于永久锁定PK流动池中30%卡牌销售地址注入WBNB的通知",
+        "title_en":"Notification about permanently locking 30% of PK mobile pool card sales addresses into WBNB",
+        "time":"2021.11.13",
         "list_zh":[
-            "随着PokerFi的良性健康发展，共识用户规模的持续扩展，PokerFi当前的卡槽发售体量，已难以满足当前社区发展的实际需求，具体表现为：",
-            "1.卡槽的稀缺导致竞争加剧，新矿场的裂变增量受到阻碍；",
-            "2.卡槽的稀缺导致卡牌的发售数量骤减，更多的社区新用户难以及时抢购，影响新用户的参与体验；",
-            "以上两个问题，在PokerFi 核心架构——“矿池”正式上线后，将显得尤为突出，严重影响到PokerFi在新阶段的快速发展，基于以上整体思考，技术社区发起了“卡槽发售重启”提案，在现有智能合约框架内，合理的利用规则，触发卡槽重启，具体提案如下：",
-            "在现有的卡槽卡牌关联算法合约中，当第14轮，卡槽无人认购，则触发“卡槽发售重启”：",
-            "1.  第15轮的卡牌发售量为：从第1轮-14轮 未售出的所有卡牌数量的累加，并依照现有模型算法，分配给未来10天的卡牌销售；",
-            "2. 第16轮的卡槽发售基数将重启为2000组，所有新老矿场用户可以按需申购；",
-            "3. 第17轮-18轮的卡牌发售数量，依据第16轮的卡槽认购数量，遵循现有卡槽卡牌关联模型算法，进行正常销售；",
-            "为确保第14轮卡槽认购量为“0”顺利触发“卡槽发售重启”，技术社区将在第14轮暂时关闭首页的“矿场”入口，第15轮及以后轮次正常开放。",
-            "该提案经社区共识委员及各大社区充分探讨，做出决议：全面通过该提案，并在14轮开启实施。",
+            "尊敬的PokerFi用户：",
+            "为进一步推动PokerFi经济系统在区块链世界的良性运转，充分凸显去中心化特性，针对30%卡牌销售地址注入PK交易流动池的WBNB，将通过销毁其流动性注入的LP凭证，永久将WNBN锁定在PK流动池中，为社区提供最大限度的流动性支持。",
             "PokerFi",
-            "2021年9月20日"
+            "2021年11月13日"
         ],
         "list_en":[
-            "With the healthy development of PokerFi and the continuous expansion of the scale of consensus users, PokerFi's current card slot sales volume,Has been difficult to meet the actual needs of the current community development,Specific performance is as follows:",
-            "1. Scarcity of slots leads to increased competition and impedes fission increments at new mines;",
-            "2. The scarcity of card slots leads to a sharp decrease in the number of cards sold, which makes it difficult for more new users in the community to buy them in time, affecting the participation experience of new users;",
-            "The above two problems will be particularly prominent after the official launch of PokerFi core architecture -- 'mining pool', which will seriously affect the rapid development of PokerFi in the new stage. Based on the overall thinking above, the technical community initiated the proposal of 'Card slot launch restart',Within the framework of the existing smart contract, make reasonable use of rules to trigger the restart of the card slot. Specificproposals are as follows:",
-            "In the existing card slot card association algorithm contract, when the card slot is not subscribed in the 14th round, the 'card slot sale restart' will be triggered:",
-            "1. The number of cards issued and sold in the 15th round is: the sum of all the unsold cards from the 1st round to the 14th round, which are allocated to the card sales in the next 10 days according to the existing model algorithm;",
-            "2. Round 16 card slot sales base will restart to 2000, all new and old mine users can apply on demand;",
-            "3.The number of cards issued in round 17-18 shall be sold normally according to the number of card slots subscribed in round 16 and the existing card slot association model algorithm;",
-            "In order to ensure that the number of slots subscribed for round 14 is zero, the technical community will temporarily close the entrance of 'Mine' on the homepage in round 14, and the 15th and subsequent rounds will be open normally.",
-            "The proposal was fully discussed by the community consensus committee and the major communities, and a resolution was made: the proposal was fully adopted and started to be implemented in the 14th round.",
+            "Dear PokerFi users,",
+            "In order to further promote the healthy operation of PokerFi economic system in the blockchain world and fully highlight the decentralized characteristics, WBNB will permanently lock WNBN in the PK flow pool by destroying the LP certificate of its liquidity injection, providing maximum liquidity support to the community.",
             "PokerFi",
-            "Sept. 20th 2021"
+            "Nov. 13th 2021"
            ]
     }
 }
