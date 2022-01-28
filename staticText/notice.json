@@ -2,20 +2,27 @@
     "name": "notice",
     "version": "1.0.0",
     "announcement": {
-        "title_zh":"关于永久锁定PK流动池中30%卡牌销售地址注入WBNB的通知",
-        "title_en":"Notification about permanently locking 30% of PK mobile pool card sales addresses into WBNB",
-        "time":"2021.11.13",
+        "title_zh":"关于PokerFi生态经济模型PK市值共识机制正式开启的公告",
+        "title_en":"Announcement on the official launch of the PK market value consensus mechanism of the PokerFi ecological economic model",
+        "time":"2021.9.1",
         "list_zh":[
-            "尊敬的PokerFi用户：",
-            "为进一步推动PokerFi经济系统在区块链世界的良性运转，充分凸显去中心化特性，针对30%卡牌销售地址注入PK交易流动池的WBNB，将通过销毁其流动性注入的LP凭证，永久将WNBN锁定在PK流动池中，为社区提供最大限度的流动性支持。",
-            "PokerFi",
-            "2021年11月13日"
+            "尊敬的各位PokerFi头号玩家：",
+            "随着PokerFi经济模型及社区拓展的良性运转，PokerFi即将进入快速的发展阶段，在全新的阶段，PokerFi的社区价值共识将愈发强大，为快速推动PokerFi发展进程，凝聚PK价值强共识，经共识委员会决定：继试行之后，将于9月1日15：00（GMT+8）正式开启PK币市值共识机制，具体如下：",
+            "当用户在Pancake  Swap 卖出PK币时，将同时触发10%单边燃烧合约，即从钱包余额同步扣除卖出数额10%比例的PK币，被扣除的10%比例PK币，分配规则为：",
+            "1. 60%销毁;",
+            "2. 30%为PK/BNB交易对提供流动性支持;",
+            "3. 10%奖励给所有购买过PK币的用户，依照PK币买入的数量权重进行分配;",
+            "该机制的正式推行，将在一定程度放大PK币的通缩属性，更重要的是深度凝聚PK市值共识，真正打开PK的增值空间，给予深度共识者巨额的红利回馈！"
         ],
         "list_en":[
-            "Dear PokerFi users,",
-            "In order to further promote the healthy operation of PokerFi economic system in the blockchain world and fully highlight the decentralized characteristics, WBNB will permanently lock WNBN in the PK flow pool by destroying the LP certificate of its liquidity injection, providing maximum liquidity support to the community.",
-            "PokerFi",
-            "Nov. 13th 2021"
+            "Dear PokerFi top players:",
+            "With the positive operation of the PokerFi economic model and community expansion, PokerFi is about to enter a stage of rapid development. In a brand new stage, the consensus of PokerFi's community value will become stronger and stronger. In order to quickly promote the development of PokerFi, a strong consensus on PK value will be gathered. The committee decided: Following the trial implementation, the PK coin market value consensus mechanism will be officially opened at 15:00 (GMT+8) on September 1, as follows:",
+            "When a user sells PK coins on Pancake Swap, a 10% unilateral burning contract will be triggered at the same time, that is, 10% of the PK coins sold and the deducted 10% of the PK coins will be deducted from the wallet balance. The distribution rules are as follows:",
+            "1. 60% burn;",
+            "2. 30% provides liquidity support for PK/BNB trading pairs;",
+            "3. 10% rewards are given to all users who have purchased PK coins, and are distributed according to the weight of the number of PK coins purchased;",
+            "The formal implementation of this mechanism will amplify the deflationary properties of PK coins to a certain extent, and more importantly, deepen the consensus on the market value of PK, truly open up the value-added space of PK, and give huge dividends to those who have deep consensus!"
+
            ]
     }
 }
